@@ -18,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		122ECFFC1E66EAB900D98546 /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		123E50E11D892E02008739DA /* MasonryDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasonryDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		123E50E51D892E02008739DA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		123E50E71D892E02008739DA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -80,6 +81,7 @@
 				123E50F21D892E02008739DA /* LaunchScreen.storyboard */,
 				123E50F51D892E02008739DA /* Info.plist */,
 				123E50E41D892E02008739DA /* Supporting Files */,
+				122ECFFC1E66EAB900D98546 /* Header.h */,
 			);
 			path = MasonryDemo;
 			sourceTree = "<group>";
