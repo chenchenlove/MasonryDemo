@@ -1,0 +1,10 @@
+/* 
+  Localizations.strings
+  MasonryDemo
+
+  Created by smith on 2016/10/17.
+  Copyright © 2016年 smith. All rights reserved.
+*/
+CFBundleDisplayName = "China";
+
+"我" = "Hello World";
