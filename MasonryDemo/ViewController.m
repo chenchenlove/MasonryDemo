@@ -26,6 +26,10 @@
     
     NSLog(@"this is a test");
     
+    [UIView animateWithDuration:0.25 animations:^{
+        
+    }];
+    
     
     
     
