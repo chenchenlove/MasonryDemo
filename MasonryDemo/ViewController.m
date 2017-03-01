@@ -24,6 +24,9 @@
     [self.view addSubview:label] ;
     
     
+    NSLog(@"this is a test");
+    
+    
     
     
 }
