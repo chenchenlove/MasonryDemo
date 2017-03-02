@@ -24,7 +24,7 @@
     [self.view addSubview:label] ;
     
     
-    NSLog(@"this is a test text aaaaaaaaa");
+    NSLog(@"this is a test text aaaaaaaaasssssssssxxxxxx");
     
     [UIView animateWithDuration:0.25 animations:^{
         
