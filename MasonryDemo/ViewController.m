@@ -41,6 +41,7 @@
     
     
     UIView * view = [UIView new];
+    view.backgroundColor = [UIColor redColor];
     
     
 }
