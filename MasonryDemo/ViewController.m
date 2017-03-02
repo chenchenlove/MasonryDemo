@@ -40,6 +40,7 @@
     
     
     
+    UIView * view = [UIView new];
     
     
 }
